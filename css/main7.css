@@ -1,0 +1,9 @@
+#box_2 {
+    background:black;
+	position: fixed; 
+	bottom: 0; 
+	left: 0; 
+    right: 0; 
+    color: white;
+    text-align: center;
+}
